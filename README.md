@@ -1,3 +1,15 @@
+# Run Solution
+
+1. Run container with JSON API server:
+```
+docker-compose up
+```
+2. Run cypress
+```
+cd solution
+npx cypress run
+```
+
 # QA Automation Test Task
 
 In this repository you can find a test task for Automation QA.
