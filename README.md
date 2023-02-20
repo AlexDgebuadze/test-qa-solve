@@ -7,6 +7,7 @@ docker-compose up
 2. Run cypress
 ```
 cd solution
+npm i
 npx cypress run
 ```
 
